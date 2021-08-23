@@ -20,13 +20,18 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:adding_map" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8dd97bc-6c81-462a-a436-6db9cb3f29f9" name="Default Changelist" comment="Completed the tutorial for first app on flutter.">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snow_resort_app/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/snow_resort_app/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snow_resort_app/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/snow_resort_app/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snow_resort_app/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/snow_resort_app/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,20 +56,83 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.D:/Android Applications/SnowResortApp [tasks]">
     <configuration default="true" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/snow_resort_app/lib/main.dart" />
       <method v="2" />
     </configuration>
+    <configuration name="D:/Android Applications/SnowResortApp [sync]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="sync" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="D:/Android Applications/SnowResortApp [tasks]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="tasks" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="D:/Android Applications/SnowResortApp" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="-v" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.D:/Android Applications/SnowResortApp [tasks]" />
+        <item itemvalue="Gradle.D:/Android Applications/SnowResortApp [sync]" />
+        <item itemvalue="Gradle.D:/Android Applications/SnowResortApp" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -98,7 +166,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="adding_map" />
                       </list>
                     </value>
                   </entry>
@@ -120,10 +188,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="817" y="376" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1629614704811" />
-    <state x="312" y="13" key="#Project_Structure" timestamp="1629611376945">
+    <state x="312" y="13" key="#Project_Structure" timestamp="1629689880400">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="312" y="13" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1629611376945" />
+    <state x="312" y="13" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1629689880400" />
     <state x="410" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629611551538">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -140,17 +208,33 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="726" y="246" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1629611413989" />
-    <state x="351" y="21" key="SettingsEditor" timestamp="1629612021718">
+    <state width="1863" height="279" key="GridCell.Tab.0.bottom" timestamp="1629689496801">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="351" y="21" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1629612021718" />
-    <state x="452" y="195" key="Vcs.Push.Dialog.v2" timestamp="1629614865572">
+    <state width="1863" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1629689496801" />
+    <state width="1863" height="279" key="GridCell.Tab.0.center" timestamp="1629689496801">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="452" y="195" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1629614865572" />
-    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1629611975140">
+    <state width="1863" height="279" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1629689496801" />
+    <state width="1863" height="279" key="GridCell.Tab.0.left" timestamp="1629689496801">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1629611975140" />
+    <state width="1863" height="279" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1629689496801" />
+    <state width="1863" height="279" key="GridCell.Tab.0.right" timestamp="1629689496801">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1863" height="279" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1629689496801" />
+    <state x="351" y="21" key="SettingsEditor" timestamp="1629690082128">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="351" y="21" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1629690082128" />
+    <state x="452" y="195" key="Vcs.Push.Dialog.v2" timestamp="1629686247219">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="452" y="195" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1629686247219" />
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1629688582693">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1629688582693" />
   </component>
 </project>
