@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8dd97bc-6c81-462a-a436-6db9cb3f29f9" name="Default Changelist" comment="Completed the tutorial for first app on flutter.">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="tkhar" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1x4M9rc9YwkZmULPt7KLrQmXFK9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/snow_resort_app/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8dd97bc-6c81-462a-a436-6db9cb3f29f9" name="Default Changelist" comment="" />
+      <created>1629609759072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629609759072</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Completed the tutorial for first app on flutter.">
+      <created>1629614498033</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629614498033</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed the tutorial for first app on flutter." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed the tutorial for first app on flutter." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="817" y="376" key="#Notifications" timestamp="1629614704811">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="817" y="376" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1629614704811" />
+    <state x="312" y="13" key="#Project_Structure" timestamp="1629611376945">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="312" y="13" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1629611376945" />
+    <state x="410" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629611551538">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="410" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1629611551538" />
+    <state x="623" y="283" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1629611478356">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="283" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1629611478356" />
+    <state x="532" y="34" key="CommitChangelistDialog2" timestamp="1629614790824">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="532" y="34" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1629614790824" />
+    <state x="726" y="246" key="FileChooserDialogImpl" timestamp="1629611413989">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="726" y="246" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1629611413989" />
+    <state x="351" y="21" key="SettingsEditor" timestamp="1629612021718">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="351" y="21" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1629612021718" />
+    <state x="452" y="195" key="Vcs.Push.Dialog.v2" timestamp="1629614865572">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="452" y="195" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1629614865572" />
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1629611975140">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1629611975140" />
+  </component>
+</project>
